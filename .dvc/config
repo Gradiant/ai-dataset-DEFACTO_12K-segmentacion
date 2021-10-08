@@ -1,0 +1,8 @@
+[cache]
+    type = "reflink,symlink,hardlink,copy"
+    shared = group
+    dir = /media/VA/DVC/ai-datasets/DEFACTO_12K_SEGMENTACION
+['remote "local-remote"']
+    url = /media/VA/DVC_remote/ai-datasets/DEFACTO_12K_SEGMENTACION
+[core]
+    remote = local-remote

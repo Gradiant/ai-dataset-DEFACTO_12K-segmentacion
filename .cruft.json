@@ -1,0 +1,17 @@
+{
+  "template": "git@github.com:Gradiant/ai-dataset-template.git",
+  "commit": "80b0ed061a540331d069aae20a99167d74ab45de",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "dataset_name": "DEFACTO_12K-segmentacion",
+      "dataset_slug": "DEFACTO_12K_SEGMENTACION",
+      "task": "segmentation",
+      "_copy_without_render": [
+        ".github/workflows/*"
+      ],
+      "_template": "git@github.com:Gradiant/ai-dataset-template.git"
+    }
+  },
+  "directory": null
+}
